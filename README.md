@@ -1,1 +1,2 @@
-AirBnb project using python in collaboration between ROBERT MINDO and FAITH LIYOSI
+# AirBnB_clone
+0x00. AirBnB clone - The console
